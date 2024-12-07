@@ -1,4 +1,4 @@
-![banner](https://marrtyincofficial.github.io/ScratchLauncher/games/Scratch%20Launcher%20OS/banner.png)
+![banner](https://marrtyincofficial.github.io/ScratchLauncher/games/SLOS/banner.png)
 # Scratch Launcher OS
 This is the first game uploaded to the platform
 
